@@ -28,6 +28,6 @@ User | Contact
 ---- | -------
 name | friendName
 permission | friendPhone
-           | friendAddress
-           | friendName
-           | friendPhone
+*           | friendAddress
+*           | friendName
+*           | friendPhone
