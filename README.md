@@ -17,7 +17,9 @@ käyttölittymä koostuu kahdesta näkymästä:
  1. Tekstimuotoisen datan selaamiseen tarkoitettu näkymä.
  2. Grafiikka muotoisen datan selaamiseen tarkoitettu näkymä.
  
- **Jatkokehitysideoita**
- Säätietojen selaaminen valitulla aikavälillä
+**Jatkokehitysideoita**
+Säätietojen selaaminen valitulla aikavälillä
  
- **Arkkitehtuurikuvaus**
+**Arkkitehtuurikuvaus**
+
+**Luokkakaavio**
