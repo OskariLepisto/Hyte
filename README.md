@@ -22,5 +22,9 @@ Säätietojen selaaminen valitulla aikavälillä
  
 **Arkkitehtuurikuvaus**
 
-
 **Luokkakaavio**
+
+User | Contact
+---- | -------
+name | 
+permission |
