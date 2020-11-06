@@ -27,7 +27,7 @@ Säätietojen selaaminen valitulla aikavälillä
 User | Contact
 ---- | -------
 name | friendName
-permission | friendPhone
+Phone | friendPhone
 Address | friendAddress
-           | friendName
-           | friendPhone
+Name | friendName
+Phone | friendPhone
